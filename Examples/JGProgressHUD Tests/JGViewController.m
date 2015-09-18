@@ -84,7 +84,7 @@
     HUD.textLabel.text = @"Success!";
     HUD.indicatorView = [[JGProgressHUDSuccessIndicatorView alloc] init];
     
-    HUD.square = YES;
+//    HUD.square = YES;
     
     [HUD showInView:self.navigationController.view];
     
