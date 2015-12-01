@@ -4,7 +4,8 @@ Pod::Spec.new do |s|
   s.version      	= "1.3.x"
   s.summary      	= "Powerful and modern progress HUD for iOS."
   s.description   = <<-DESC
-                      Martin Change Some, For Private Using
+                      Martin change some, for private using.
+                      If need origin, using JGProgressHUD.
                     DESC
   s.homepage     	= "https://github.com/JonasGessner/JGProgressHUD"
   s.license      	= { :type => "MIT", :file => "LICENSE.txt" }
